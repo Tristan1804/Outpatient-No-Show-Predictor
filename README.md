@@ -2,7 +2,7 @@
 
 A data-driven dashboard designed to visualize patient attendance trends and estimate the risk of future appointment "no-shows." Built with Python and Streamlit.
 
-🔗 **[Live Demo](YOUR_STREAMLIT_APP_LINK_HERE)** *(Replace the link above once you deploy your app)*
+🔗 **[Live Demo] https://outpatient-no-show-predictor.streamlit.app/
 
 ---
 
